@@ -14,3 +14,9 @@
     margin: 0px 10px;
     line-height: 10px;
 }
+
+.cart-btn {
+    width: 100%;
+    border: none;
+    height: 30px;
+}
