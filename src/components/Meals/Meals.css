@@ -1,0 +1,16 @@
+.meal-details {
+    width: auto;
+    border: 1px solid gainsboro;
+    margin: 20px;
+}
+
+.meal-details img {
+    width: 280px;
+    height: 280px;
+    margin: 10px;
+}
+
+.meal-info {
+    margin: 0px 10px;
+    line-height: 10px;
+}
